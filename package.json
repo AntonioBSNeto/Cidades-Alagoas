@@ -1,0 +1,16 @@
+{
+  "name": "prova",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Neto",
+  "license": "ISC",
+  "dependencies": {
+    "amd-loader": "^0.0.8",
+    "typescript": "^4.2.4",
+    "vis-network": "^9.0.4"
+  }
+}
